@@ -2,7 +2,7 @@
 <html lang="en">
 
 <body>
-  <h1 align="center">Hi 👋, I'm Pranav
+  <h1 align="center">Hi 👋, I'm Pranav Bafna
   </h1>
   <h3 align="center">Student @ <a href="https://www.viit.ac.in/"> Vishwakarma Institute of Information Technology</a> </h3>
   <h3 align="center">Full Stack Web Developer </h3>
