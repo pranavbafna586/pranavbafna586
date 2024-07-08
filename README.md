@@ -98,23 +98,23 @@
    <br>
 
   <!-- <p align="center"><img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
-      alt="daigavane70" /></p> -->
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbafna586&show_icons=true&locale=en&layout=compact&theme=prussian"
+      alt="pranavbafna586" /></p> -->
   <table>
   <tr>
     <td><img align="center"
-              src="https://github-readme-stats.vercel.app/api?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
-               alt="daigavane70" />
+              src="https://github-readme-stats.vercel.app/api?username=pranavbafna586&show_icons=true&locale=en&layout=compact&theme=prussian"
+               alt="pranavbafna586" />
     </td>
     <td><img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
-      alt="daigavane70" /></td>
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbafna586&show_icons=true&locale=en&layout=compact&theme=prussian"
+      alt="pranavbafna586" /></td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=daigavane70&theme=prussian" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavbafna586&theme=prussian" />
     </td>
   </tr>
  </table>
-  <img src="https://activity-graph.herokuapp.com/graph?username=daigavane70&theme=nord&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=pranavbafna586&theme=nord&hide_border=true" />
 </p>
 </body>
 
