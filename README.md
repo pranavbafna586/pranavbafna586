@@ -114,7 +114,7 @@
     </td>
   </tr>
  </table>
-  <img src="https://activity-graph.herokuapp.com/graph?username=pranavbafna586&theme=nord&hide_border=true" />
+  
 </p>
 </body>
 
