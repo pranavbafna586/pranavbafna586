@@ -15,6 +15,8 @@
 - 💬 Ask me about **JavaScript : Spring Boot : React : Express Js : MongoDB**
 - 📫 Reach me at **pranavbafna586@gmail.com**
 
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranavbafna586&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbafna586" />
 </p>
