@@ -110,14 +110,14 @@
   <table>
   <tr>
     <td><img align="center"
-              src="https://github-readme-stats.vercel.app/api?username=pranavbafna586&show_icons=true&locale=en&layout=compact&theme=transparent"
+              src="https://github-readme-stats.vercel.app/api?username=pranavbafna586&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only"
                alt="pranavbafna586" />
     </td>
     <td><img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbafna586&show_icons=true&locale=en&layout=compact&theme=transparent"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbafna586&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only"
       alt="pranavbafna586" /></td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavbafna586&theme=transparent" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavbafna586&theme=dark#gh-dark-mode-only" />
     </td>
   </tr>
  </table>
