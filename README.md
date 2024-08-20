@@ -2,22 +2,26 @@
 <html lang="en">
 
 <body>
-  <h1 align="center">Hi 👋, I'm Pranav Bafna
-  </h1>
-  <h3 align="center">Student @ <a href="https://www.viit.ac.in/"> Vishwakarma Institute of Information Technology</a> </h3>
-  <h3 align="center">Full Stack Web Developer </h3>
+  # Hi 👋, I'm Pranav Bafna
 
-- 🌱 I’m currently learning Docker
-- 💬 Ask me about **JavaScript : Sring Boot : React : Express Js : MongoDB**
-- 📫 Reach me at **pranavbafna586@gmail.com**
+<div align="center">
+  <h3>Student @ <a href="https://www.viit.ac.in/">Vishwakarma Institute of Information Technology</a></h3>
+  <h3>Full Stack Web Developer</h3>
+</div>
+
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-  <p align="left"> <img
-      src="https://komarev.com/ghpvc/?username=pranavbafna586&label=Profile%20views&color=0e75b6&style=flat"
-      alt="pranavbafna586" /> </p>
+- 🌱 I'm currently learning Docker
+- 💬 Ask me about **JavaScript : Spring Boot : React : Express Js : MongoDB**
+- 📫 Reach me at **pranavbafna586@gmail.com**
 
-  <div width="100%" align="center" ><img align="center" height='300' width='400' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif'></img></div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pranavbafna586&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbafna586" />
+</p>
 
+<div align="center">
+  <img height='300' width='400' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif' alt="Programming GIF">
+</div>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
 
