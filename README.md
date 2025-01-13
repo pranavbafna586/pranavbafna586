@@ -7,12 +7,6 @@
   <h3 align="center">Student @ <a href="https://www.viit.ac.in/"> Vishwakarma Institute of Technology</a> </h3>
   <h3 align="center">Full Stack Web Developer </h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<br>
-
-
-- 💬 Ask me about **JavaScript : Spring Boot : React : Express Js : MongoDB**
 - 📫 Reach me at **pranavbafna586@gmail.com**
 
 <br>
@@ -21,9 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=pranavbafna586&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbafna586" />
 </p>
 
-<div align="center">
-  <img height='300' width='400' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif' alt="Programming GIF">
-</div>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
 
@@ -34,9 +25,7 @@
 <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
         src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'
         alt="JavaScript" /> </a>
-<a href='https://spring.io/projects/spring-boot'> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /> </a>
-<a href='https://spring.io/projects/spring-boot'> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /> </a>
-<a href='https://kafka.apache.org/'> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" /> </a>
+
 <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
         src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'
         alt="JavaScript" /> </a>
@@ -67,8 +56,7 @@
 <a href="https://redux.js.org/" target="_blank"> <img
         src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt="Redux" />
 </a>
-<a href="https://storybook.js.org/" target="_blank"> <img
-        src='https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white' alt="StoryBook" />
+
 </a>
 <a href="https://reactrouter.com/" target="_blank"> <img
         src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'
@@ -94,12 +82,7 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mongodb" /> </a>
-<a href="https://grafana.com/"> 
-      <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-    </a>
-<a href="https://prometheus.io/"> 
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
-    </a>
+
 <a href='https://redis.io/'> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> </a>
 
    <br>
