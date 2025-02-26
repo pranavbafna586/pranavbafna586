@@ -1,111 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
+# Hi 👋, I'm Pranav Bafna
 
-<body>
-  <h1 align="center">Hi 👋, I'm Pranav Bafna
-  </h1>
-  <h3 align="center">Student @ <a href="https://www.viit.ac.in/"> Vishwakarma Institute of Technology</a> </h3>
-  <h3 align="center">Full Stack Web Developer </h3>
+### Student @ [Vishwakarma Institute of Technology](https://www.viit.ac.in/)
+### Full Stack Web Developer
 
-- 📫 Reach me at **pranavbafna586@gmail.com**
+📫 Reach me at **pranavbafna586@gmail.com**
 
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=pranavbafna586&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## 🚀 Languages and Tools:
+
+### Programming Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranavbafna586&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbafna586" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavbafna586&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbafna586&show_icons=true&layout=compact&theme=dark" alt="Top Languages">
 </p>
-
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img
-        src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'
-        alt="cplusplus" /> </a>
-<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"> <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white'> </a>
-<a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
-        src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'
-        alt="JavaScript" /> </a>
-
-<a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
-        src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'
-        alt="JavaScript" /> </a>
-<a href='https://nodejs.org/en/'> <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'> </a>
-<a href='https://expressjs.com/'> <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'> </a>
-<a href="https://www.java.com" target="_blank"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-        width="40" height="40" /> </a>
-<a href="https://github.com/" target="_blank"> <img
-        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="css3" />
-</a>
-<a href="https://www.docker.com/" target="_blank"> <img
-        src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-</a>
-<a href="https://www.python.org" target="_blank">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-        alt="python" /> </a>
-<a href="https://www.linux.org/" target="_blank"> <img
-        src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
-</a>
-<br>
-<a href="https://reactjs.org/" target="_blank"> <img
-        src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="React" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank"> <img
-        src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'
-        alt="Bootstrap" /> </a>
-<a href="https://redux.js.org/" target="_blank"> <img
-        src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt="Redux" />
-</a>
-
-</a>
-<a href="https://reactrouter.com/" target="_blank"> <img
-        src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'
-        alt="React-Router" />
-</a>
-<a href="https://www.npmjs.com/" target="_blank"> <img
-        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
-<a href="https://material-ui.com/" target="_blank"> <img
-        src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
-        alt="material-ui" /> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img
-        src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-        alt="tailwindcss" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img
-        src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
-<br>
-<a href="https://www.mysql.com/" target="_blank"> <img
-        src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black"
-        alt="mysql" /> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img
-        src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-        alt="postgressql" /> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img
-        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-        alt="mongodb" /> </a>
-
-<a href='https://redis.io/'> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> </a>
-
-   <br>
-
-  <!-- <p align="center"><img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbafna586&show_icons=true&locale=en&layout=compact&theme=prussian"
-      alt="pranavbafna586" /></p> -->
-  <table>
-  <tr>
-    <td><img align="center"
-              src="https://github-readme-stats.vercel.app/api?username=pranavbafna586&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only"
-               alt="pranavbafna586" />
-    </td>
-    <td><img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbafna586&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only"
-      alt="pranavbafna586" /></td>
-    <!-- <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavbafna586&theme=dark#gh-dark-mode-only" />
-    </td> -->
-  </tr>
- </table>
-  
-</p>
-</body>
-
-</html>
