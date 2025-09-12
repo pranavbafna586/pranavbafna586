@@ -60,28 +60,4 @@
 
 </details>
 
-<!-- ## 🤝 Connect With Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/pranavbafna586" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/pranavbafna586" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-</div> -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pranavbafna586&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbafna586&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavbafna586&theme=tokyo-night" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbafna586&theme=tokyonight" alt="GitHub Streak" />
-</div>
